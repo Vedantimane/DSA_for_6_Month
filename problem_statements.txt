@@ -8,18 +8,3 @@
 8.	Count Total Seconds in a Day: Calculate and display the total number of seconds in a day.
 9.	Find the ASCII Value of a Character: Take a character as input and output its ASCII value.
 10.	Reverse a Number: Reverse the digits of an input number (e.g., 1234 → 4321).
-
-
-
-Here are the suggested Java file names for each program:
-
-1. **GreetingMessage.java**  
-2. **ArithmeticOperations.java**  
-3. **SwapNumbers.java**  
-4. **SimpleInterestCalculator.java**  
-5. **TemperatureConverter.java**  
-6. **NumberCheck.java**  
-7. **RectangleCalculations.java**  
-8. **SecondsInADay.java**  
-9. **ASCIIValueFinder.java**  
-10. **ReverseNumber.java**  
