@@ -1,0 +1,25 @@
+1.	Print a Greeting Message: Display a personalized greeting message using System.out.println.
+2.	Perform Arithmetic Operations: Create a program to perform addition, subtraction, multiplication, and division on two input numbers.
+3.	Swap Two Numbers Without a Third Variable: Swap the values of two numbers using arithmetic operations.
+4.	Calculate Simple Interest: Write a program to calculate simple interest using the formula (Principal * Rate * Time) / 100.
+5.	Convert Temperature: Convert a temperature from Celsius to Fahrenheit using the formula (Celsius × 9/5) + 32.
+6.	Check if a Number is Positive, Negative, or Zero: Create a program that checks whether an input number is positive, negative, or zero.
+7.	Calculate Area and Perimeter of a Rectangle: Write a program to compute the area and perimeter of a rectangle using the inputs length and breadth.
+8.	Count Total Seconds in a Day: Calculate and display the total number of seconds in a day.
+9.	Find the ASCII Value of a Character: Take a character as input and output its ASCII value.
+10.	Reverse a Number: Reverse the digits of an input number (e.g., 1234 → 4321).
+
+
+
+Here are the suggested Java file names for each program:
+
+1. **GreetingMessage.java**  
+2. **ArithmeticOperations.java**  
+3. **SwapNumbers.java**  
+4. **SimpleInterestCalculator.java**  
+5. **TemperatureConverter.java**  
+6. **NumberCheck.java**  
+7. **RectangleCalculations.java**  
+8. **SecondsInADay.java**  
+9. **ASCIIValueFinder.java**  
+10. **ReverseNumber.java**  
